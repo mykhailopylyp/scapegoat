@@ -12,12 +12,12 @@
     "url": "git+https://github.com/ph1lolog1st/scapegoat.git"
   },
   "keywords": [
-    "["
+    "escape",
+    "unescape",
+    "html"
   ],
   "author": "Mykhailo <pylypsmol@gmail.com> (pylypsmol.com)",
-  "license": {
-	"type": "MIT",
-  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ph1lolog1st/scapegoat/issues"
   },
