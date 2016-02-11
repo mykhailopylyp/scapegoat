@@ -1,0 +1,29 @@
+{
+  "name": "scapegoat",
+  "version": "0.1.0",
+  "description": "A small library providing utility methods to escape and unescape HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph1lolog1st/scapegoat.git"
+  },
+  "keywords": [
+    "["
+  ],
+  "author": "Mykhailo <pylypsmol@gmail.com> (pylypsmol.com)",
+  "license": {
+	"type": "MIT",
+  },
+  "bugs": {
+    "url": "https://github.com/ph1lolog1st/scapegoat/issues"
+  },
+  "homepage": "https://github.com/ph1lolog1st/scapegoat#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
